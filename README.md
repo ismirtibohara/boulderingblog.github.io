@@ -1,3 +1,3 @@
-   # ismirtibohara.github.io
+   # bouldering blog.github.io
 
    bouldering blog
